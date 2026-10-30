@@ -1,0 +1,27 @@
+AI Applications Laboratory Handbook
+Department of Information Technology, Government College of Engineering, Karad
+(Sample document prepared for the RAG practical)
+
+1. About the Laboratory
+The AI Applications Laboratory was started in July 2024 on the second floor of the Information Technology building. The laboratory has 30 computers. Each computer has 16 GB of RAM and an NVIDIA RTX 3050 graphics card. The laboratory is managed by Dr. Anita Deshmukh, and the lab assistant is Mr. Rahul Patil. The laboratory is open from 9:00 AM to 5:00 PM, Monday to Saturday. The laboratory remains closed on the second and fourth Saturday of every month.
+
+2. Courses Supported
+The laboratory supports the course AI Applications and Emerging Technologies, whose course code is IOE3514. This course is taught to Second Year students in Semester V. The course has four practicals: Image Generation Using a GAN, Document-Based Question Answering Using RAG, Conditional GAN and Creative Image Generation, and Parameter-Efficient Fine-Tuning of a pre-trained LLM using LoRA. Each practical carries 25 marks, and the total practical marks are 100.
+
+3. Software Available
+All computers run Ubuntu 22.04. Python 3.11 is installed along with TensorFlow, PyTorch, Hugging Face Transformers, and Jupyter Notebook. Students can also use Google Colab when a graphics card is needed for a long time. A shared project folder named AI_Projects is available on the college server, and every student must save the final programs in this folder before the submission date.
+
+4. Rules for Students
+Students must carry their college identity card to enter the laboratory. Food and drinks are not allowed inside the laboratory. Each batch contains 15 students, and every student must work on a separate computer. Students must log out and shut down the computer after finishing the work. Damage to any equipment must be reported to the lab assistant immediately, and the student responsible may have to pay the repair cost.
+
+5. Submission and Evaluation
+Every practical must be submitted as a Word file that contains the title, problem statement, theory, program, output, and conclusion. The practical file must be submitted within seven days after the practical is performed. Late submission leads to a deduction of 5 marks per practical. Plagiarism of programs or outputs is not accepted, and a student found copying output will get zero marks for that practical. At the end of the semester, a viva voce examination of 20 marks is conducted by an internal and an external examiner.
+
+6. Research Projects
+Students who score more than 80 percent in the practicals can join the AI Innovation Club. The club works on projects such as crop disease detection for local farmers in the Karad region, a chatbot for college admission enquiries, and a traffic counting system using computer vision. The club meets every Friday from 3:00 PM to 5:00 PM. In January 2026, the club's crop disease detection project won second prize at the State Level Technical Paper Contest held in Pune.
+
+7. Safety and Maintenance
+The laboratory is cleaned every Wednesday morning, and the computers are updated on the first Monday of every month. The electrical wiring is checked every six months. A first aid box and a fire extinguisher are kept near the entrance door. In case of any emergency, students must contact the lab assistant or call the college security office at extension 112.
+
+8. Contact Information
+For any questions about the laboratory, students can send an email to ailab@gcekarad-sample.edu or meet the laboratory in-charge during working hours. Requests for extra lab time must be made at least two days in advance and must be approved by the laboratory in-charge.
